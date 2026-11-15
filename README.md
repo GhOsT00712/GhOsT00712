@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @GhOsT00712
-- 👀 I’m interested in building backend apps
-- 💞️ I’m looking to collaborate on any new and challenging
-- 📫 How to reach me get.piyush007@gmail.com
+# Hi, I'm Piyush 👋
 
-<!---
-GhOsT00712/GhOsT00712 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a software developer focused on backend applications. I enjoy building useful services and working through the design decisions behind them—from API behavior and data storage to consistency and reliability.
+
+## What I'm building
+
+- **[URL Shortener](https://github.com/GhOsT00712/shortUrl)** — A Java 21 and Spring Boot service with MongoDB, expiring links, request deduplication, and a Docker Compose setup with NGINX and multiple API instances.
+- **[Paper Reading List](https://github.com/GhOsT00712/paper-reader)** — An app to save research papers and track reading progress across devices, built with Cloudflare Pages and D1.
+
+## Technologies in my projects
+
+Java · Spring Boot · MongoDB · Docker · NGINX · Cloudflare Pages · D1
+
+## Let's collaborate
+
+I'm open to collaborating on backend applications, developer tools, and projects with interesting engineering challenges.
+
+Reach me at **[get.piyush007@gmail.com](mailto:get.piyush007@gmail.com)**.
