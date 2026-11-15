@@ -4,13 +4,13 @@ I'm a software developer focused on backend applications. I enjoy building usefu
 
 ## What I'm building
 
-- **Rate Limiter** *(in progress)* — An app for controlling request rates in backend services.
+- **[Rate Limiter](https://github.com/GhOsT00712/rateLimiter)** — A distributed rate limiter built with Spring Cloud Gateway, Redis token buckets, and a MongoDB-backed control plane, with token leasing for in-memory request checks.
 - **[URL Shortener](https://github.com/GhOsT00712/shortUrl)** — A Java 21 and Spring Boot service with MongoDB, expiring links, request deduplication, and a Docker Compose setup with NGINX and multiple API instances.
 - **[Paper Reading List](https://github.com/GhOsT00712/paper-reader)** — An app to save research papers and track reading progress across devices, built with Cloudflare Pages and D1.
 
 ## Technologies in my projects
 
-Java · Spring Boot · MongoDB · Docker · NGINX · Cloudflare Pages · D1
+Java · Spring Boot · Spring Cloud Gateway · Redis · MongoDB · Docker · NGINX · Cloudflare Pages · D1
 
 ## Let's collaborate
 
