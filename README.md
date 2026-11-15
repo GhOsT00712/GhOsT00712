@@ -4,6 +4,7 @@ I'm a software developer focused on backend applications. I enjoy building usefu
 
 ## What I'm building
 
+- **Rate Limiter** *(in progress)* — An app for controlling request rates in backend services.
 - **[URL Shortener](https://github.com/GhOsT00712/shortUrl)** — A Java 21 and Spring Boot service with MongoDB, expiring links, request deduplication, and a Docker Compose setup with NGINX and multiple API instances.
 - **[Paper Reading List](https://github.com/GhOsT00712/paper-reader)** — An app to save research papers and track reading progress across devices, built with Cloudflare Pages and D1.
 
